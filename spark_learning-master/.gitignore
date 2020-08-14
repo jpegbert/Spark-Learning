@@ -1,0 +1,10 @@
+*/.git/*
+.classpath
+.git
+.project
+.settings
+/.idea/
+target
+*.iml
+/output*/
+/cp/
